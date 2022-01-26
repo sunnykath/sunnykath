@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Suyash or Sunny
+- 👀 I’m mostly interested in Full-Stack Developement but do enjoy embedded systems developement
+- 🌱 I’m currently filling the gaps that I have in my software developement knowledge
+- 💞️ I’m looking to collaborate on any projects that may help me expand the skills that I already have or gain some new ones!
+- 📫 How to reach me: suyash.kathuria7@gmail.com
