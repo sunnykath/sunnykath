@@ -4,8 +4,9 @@ Hi 👋 My name is Sunny
 Curious Software Developer
 --------------------------
 
-👀 I’m mostly interested in Full-Stack Development but do enjoy embedded systems development 🌱 I’m currently filling the gaps that I have in my software development knowledge 💞️ I’m looking to collaborate on any projects that may help me expand the skills that I already have or gain some new ones!
-
+* 👀 I’m mostly interested in Full-Stack Development but do enjoy embedded systems development 
+* 🌱 I’m currently filling the gaps that I have in my software development knowledge 
+* 💞️ I’m looking to collaborate on any projects that may help me expand the skills that I already have or gain some new ones!
 * 🌍  I'm based in Auckland, New Zealand
 
 <a href="https://www.github.com/sunnykath" target="_blank" rel="noreferrer"><img
