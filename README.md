@@ -1,4 +1,4 @@
-Hi 👋 My name is Sunny
+Hi 👋 My name is Suyash
 ======================
 
 Curious Software Developer
