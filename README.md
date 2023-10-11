@@ -4,10 +4,9 @@ Hi 👋 My name is Suyash
 Curious Software Developer
 --------------------------
 
-* 👀 I’m mostly interested in Full-Stack Development but do enjoy embedded systems development 
-* 🌱 I’m currently filling the gaps that I have in my software development knowledge 
-* 💞️ I’m looking to collaborate on any projects that may help me expand the skills that I already have or gain some new ones!
-* 🌍  I'm based in Auckland, New Zealand
+* 👀 I’m mostly interested in Full-Stack Development but currently, I'm working as a Front-End Developer
+* 🌱 I’m an aspiring leader and currently working towards enhancing my leadership skills
+* 🌍 I'm based in Melbourne, Australia
 
 <a href="https://www.github.com/sunnykath" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sunnykath?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/sunnykath" target="_blank" rel="noreferrer"><img
