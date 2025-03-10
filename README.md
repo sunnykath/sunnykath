@@ -4,7 +4,7 @@ Hi 👋 My name is Suyash
 Curious Software Developer
 --------------------------
 
-* 👀 I’m mostly interested in Full-Stack Development but currently, I'm working as a Front-End Developer
+* 👀 I’m mostly interested in Front-End Development but currently, I'm working as a Full-Stack Developer
 * 🌱 I’m an aspiring leader and currently working towards enhancing my leadership skills
 * 🌍 I'm based in Melbourne, Australia
 
