@@ -9,8 +9,7 @@ Curious Software Developer
 * 🌍 I'm based in Melbourne, Australia
 
 <a href="https://www.github.com/sunnykath" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sunnykath?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/sunnykath" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/sunnykath?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/github/followers/sunnykath?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/sunnykath" target="_blank" rel="noreferrer">
 
 ### Skills
 
